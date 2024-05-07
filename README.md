@@ -35,6 +35,7 @@ response = proxy.request(url, method='get', headers=headers, data=data)
 - Rotation der Proxies
 - Unterstützung von HTTP, HTTPS, SOCKS4 und SOCKS5 Proxies
 - Automatisches Handling von HTTP- und SOCKS-Anfragen
+- Unterstützt POST-Method und GET-Method Request'S
 
 ## Mitwirkende
 
