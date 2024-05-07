@@ -40,7 +40,7 @@ response = proxy.request(url, method='get', headers=headers, data=data)
 ## Mitwirkende
 
 - Ar1sto - [GitHub](https://github.com/Ar1sto)
-- API - [Geonode](https://proxylist.geonode.com)
+- API - [Geonode](https://geonode.com/free-proxy-list)
 
 ## Hinweis
 
