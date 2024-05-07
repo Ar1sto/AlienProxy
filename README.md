@@ -1,6 +1,8 @@
 # AlienProxy
 
-![AlienProxy Logo](assets/logo.png)
+<p align="center">
+  <img src="assets/logo.png" alt="AlienProxy Logo">
+</p>
 
 AlienProxy ist ein Python-Modul, das entwickelt wurde, um Proxies von einer externen API abzurufen und sie für HTTP- und SOCKS-basierte Anfragen zu verwenden. Dabei vereinfacht AlienProxy das passive und aktive rotieren von Proxie-Server.
 
