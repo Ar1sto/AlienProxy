@@ -1,4 +1,3 @@
-```markdown
 # AlienProxy
 
 ![AlienProxy Logo](assets/logo.png)
@@ -43,5 +42,3 @@ response = proxy.request(url, method='get', headers=headers, data=data)
 ## Hinweis
 
 Dieses Modul ist nur zu Bildungszwecken gedacht. Die Verwendung liegt in der Verantwortung des Benutzers.
-
-```
